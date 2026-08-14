@@ -5,7 +5,7 @@ scam / likely phishing — combining a custom-trained ML model on technical
 signals with LLM-based content analysis, fused into one evidence-backed
 verdict with a plain-English explanation.
 
-**Live demo:** _[add your deployed URL here once live]_
+**Live demo:** (https://website-trust-analyzer.streamlit.app/)
 
 ## Why this exists
 
