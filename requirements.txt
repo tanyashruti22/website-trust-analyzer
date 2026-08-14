@@ -1,0 +1,32 @@
+# --- Phase 1: Data collection ---
+requests==2.32.3
+pandas>=2.2.3
+tldextract==5.1.2
+
+# --- Phase 2: Signal collectors ---
+python-whois==0.9.4
+playwright>=1.47.0
+beautifulsoup4==4.12.3
+dnspython==2.6.1
+cryptography==42.0.8
+
+# --- Phase 3: ML models ---
+scikit-learn>=1.6.0
+xgboost>=2.1.0
+joblib>=1.4.2
+
+# --- Phase 4: LLM reasoning agent ---
+anthropic>=0.40.0
+groq>=0.11.0
+cerebras_cloud_sdk>=1.0.0
+python-dotenv==1.0.1
+
+# --- Phase 5: Evaluation ---
+matplotlib>=3.9.2
+seaborn>=0.13.2
+
+# --- Phase 6: Interface ---
+fastapi==0.111.1
+uvicorn==0.30.3
+streamlit>=1.38.0
+pillow>=11.0.0
